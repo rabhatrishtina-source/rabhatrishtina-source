@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Trishtina 👋
+•🎓 BBA (IBM) student
+•💡 Interested in business, tech & learning new skills
+•📚 Currently exploring new tools and improving myself
+•🌱 Always growing, one step at a time
+⚡ About Me
+•Focused on building skills & consistency
+•Curious about how business and technology connect
+•Open to learning and new opportunities
+🛠️ Skills (Learning)
+•Basic Business Concepts
+•MS Excel & PowerPoint
+•Communication & Presentation
+📌 Goal
+•To grow, learn, and create a strong future with skills and discipline
 
-<!--
-**rabhatrishtina-source/rabhatrishtina-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
